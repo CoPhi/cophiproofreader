@@ -1,0 +1,5 @@
+
+INSTALL
+copy src/opt/junk/Euclides* in /opt/junk (into your file system).
+If you want to change directory, change it in InitBean.java (this will be fixed as soon as possible setting a property).
+

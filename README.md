@@ -1,4 +1,4 @@
 cophiproofreader
 ================
 
-WebApp for OCR output proof-reading
+Proof-reading system for OCR applied to Greek and Latin texts
