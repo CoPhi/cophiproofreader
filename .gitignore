@@ -1,8 +1,13 @@
+# Classes #
 *.class
 
 # Package Files #
-*.jar
 *.war
 *.ear
+/target/
 
-hidden-*
+# Hidden Properties #
+hidden-*.properties
+
+# Emacs Backups #
+*.*~
